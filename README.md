@@ -1,0 +1,1 @@
+This project is part of a Dataquest guided project to develop a K-Nearest Neighbors classifier to predict heart disease likelihood. The project involved data cleaning, feature correlations and development of the algorithm using the sklearn library
